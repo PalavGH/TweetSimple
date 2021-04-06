@@ -20,7 +20,7 @@ namespace DashboardCTwitter
 
         public void setAppClient()
         {
-            appClient = new TwitterClient("ECJ7OKhhbJPmqmJWuZP6yN9Z6", "b3BIoNe1cGYqXzxxpOIftI55cLqvAVK5E8GYDZ1D4uwltjxFHN");
+            appClient = new TwitterClient("KEY", "TOKEN");
         }
 
         public async void setAuthenticationRequest()
